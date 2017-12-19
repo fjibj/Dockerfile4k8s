@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow/model-server:1.0
+FROM gcr.io/tf-on-k8s-dogfood/tf_operator:v20171129-f8ec762
 MAINTAINER fjibj@hotmail.com
